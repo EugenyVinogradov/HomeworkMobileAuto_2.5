@@ -19,8 +19,7 @@ import io.qameta.allure.kotlin.junit4.AllureRunner;
 
 
 //@RunWith(AndroidJUnit4.class)
-//@RunWith(AllureAndroidJUnit4.class)
-@RunWith(AllureRunner.class)
+@RunWith(AllureAndroidJUnit4.class)
 public class MyTest {
 
     @Rule
