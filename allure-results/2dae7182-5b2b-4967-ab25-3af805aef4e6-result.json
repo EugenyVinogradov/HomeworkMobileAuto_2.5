@@ -1,0 +1,53 @@
+{
+    "name": "isTextValid",
+    "start": 1673976119975,
+    "stop": 1673976122087,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "2dae7182-5b2b-4967-ab25-3af805aef4e6",
+    "historyId": "f64d1bba56698eb1beb2bdd87b67e226",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.MyTest.isTextValid",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.MyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "isTextValid"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.MyTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(45)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

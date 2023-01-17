@@ -1,7 +1,7 @@
 {
-    "name": "isTextValid",
-    "start": 1673801106300,
-    "stop": 1673801116304,
+    "name": "isTextSlideshowValid",
+    "start": 1673976122139,
+    "stop": 1673976124670,
     "stage": "finished",
     "description": null,
     "descriptionHtml": null,
@@ -13,9 +13,9 @@
     ],
     "parameters": [
     ],
-    "uuid": "3990cf4c-aa7f-4ae3-9858-c9b4db747e8f",
-    "historyId": "f64d1bba56698eb1beb2bdd87b67e226",
-    "fullName": "ru.kkuzmichev.simpleappforespresso.MyTest.isTextValid",
+    "uuid": "d95ce748-9bb9-4c03-b65b-856412358322",
+    "historyId": "7226ad50d9c1c0462d4b3482c4e88537",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.MyTest.isTextSlideshowValid",
     "labels": [
         {
             "name": "package",
@@ -27,7 +27,7 @@
         },
         {
             "name": "testMethod",
-            "value": "isTextValid"
+            "value": "isTextSlideshowValid"
         },
         {
             "name": "suite",
